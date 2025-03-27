@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Thanyawat Srivajana, aka thanyawat2554, i edit videos mainly, but when it comes to my web presence, this is my github!
 
 <!--
 **thanyawat2554/thanyawat2554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
